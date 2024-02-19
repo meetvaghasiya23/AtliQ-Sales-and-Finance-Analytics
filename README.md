@@ -10,7 +10,7 @@ growth opportunities, and enhance financial decision-making capabilities.
 #### Project Objective
 - Facing the challenge of optimizing sales and improving net gross margins, the 
 project's objective is to create a comprehensive sales and financial report. This 
-the report will analyze AtliQ Hardware's market performance for the year 2019, 
+report will analyze AtliQ Hardware's market performance for the year 2019, 
 2020, and 2021, providing valuable insights for informed decision-making.
 
 ● Sales Analytics Report
